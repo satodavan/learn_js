@@ -1,0 +1,8 @@
+{
+  "name": "_javascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/satodavan/learn_js.git",
+  "author": "Olexandr Bashkirov <satodavan@gmail.com>",
+  "license": "MIT"
+}

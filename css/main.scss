@@ -1,0 +1,7 @@
+.block {
+  &::after {
+    content: '';
+    display: block;
+    position: relative;
+  }
+}
